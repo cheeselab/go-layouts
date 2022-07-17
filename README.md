@@ -1,4 +1,6 @@
 # CheeseLab golang project layout
+### Requiments
+- Golang version >= 1.17
 ## Setup
 ### golangci-lint
 ```
